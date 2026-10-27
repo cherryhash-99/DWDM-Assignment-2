@@ -1,0 +1,126 @@
+,Antecedent,Consequent,Support,Confidence,Lift
+1,"citrus fruit, other vegetables",root vegetables,0.01,0.359,3.295
+2,"other vegetables, tropical fruit",root vegetables,0.012,0.343,3.145
+3,beef,root vegetables,0.017,0.331,3.04
+4,"citrus fruit, root vegetables",other vegetables,0.01,0.586,3.03
+5,"root vegetables, tropical fruit",other vegetables,0.012,0.585,3.021
+6,"other vegetables, whole milk",root vegetables,0.023,0.31,2.842
+7,"curd, whole milk",yogurt,0.01,0.385,2.761
+8,"rolls/buns, root vegetables",other vegetables,0.012,0.502,2.595
+9,"root vegetables, yogurt",other vegetables,0.013,0.5,2.584
+10,"tropical fruit, whole milk",yogurt,0.015,0.358,2.568
+11,"whipped/sour cream, yogurt",other vegetables,0.01,0.49,2.533
+12,"other vegetables, whipped/sour cream",yogurt,0.01,0.352,2.524
+13,"other vegetables, tropical fruit",yogurt,0.012,0.343,2.457
+14,"root vegetables, whole milk",other vegetables,0.023,0.474,2.45
+15,"whipped/sour cream, whole milk",yogurt,0.011,0.338,2.42
+16,"citrus fruit, whole milk",yogurt,0.01,0.337,2.413
+17,onions,other vegetables,0.014,0.459,2.372
+18,"pork, whole milk",other vegetables,0.01,0.459,2.371
+19,"whipped/sour cream, whole milk",other vegetables,0.015,0.454,2.348
+20,cream cheese ,yogurt,0.012,0.325,2.331
+21,curd,yogurt,0.017,0.324,2.326
+22,"pip fruit, whole milk",other vegetables,0.014,0.449,2.322
+23,berries,yogurt,0.011,0.318,2.28
+24,"curd, yogurt",whole milk,0.01,0.582,2.279
+25,root vegetables,other vegetables,0.047,0.435,2.247
+26,"butter, other vegetables",whole milk,0.011,0.574,2.245
+27,"root vegetables, tropical fruit",whole milk,0.012,0.57,2.231
+28,"citrus fruit, whole milk",other vegetables,0.013,0.427,2.205
+29,"root vegetables, yogurt",whole milk,0.015,0.563,2.203
+30,"tropical fruit, yogurt",other vegetables,0.012,0.42,2.171
+31,"domestic eggs, other vegetables",whole milk,0.012,0.553,2.162
+32,chicken,other vegetables,0.018,0.417,2.155
+33,"butter, whole milk",other vegetables,0.011,0.417,2.155
+34,hamburger meat,other vegetables,0.014,0.416,2.149
+35,"domestic eggs, whole milk",other vegetables,0.012,0.41,2.12
+36,"tropical fruit, whole milk",other vegetables,0.017,0.404,2.087
+37,whipped/sour cream,other vegetables,0.029,0.403,2.082
+38,"whole milk, yogurt",other vegetables,0.022,0.397,2.054
+39,"whipped/sour cream, yogurt",whole milk,0.011,0.525,2.053
+40,"rolls/buns, root vegetables",whole milk,0.013,0.523,2.047
+41,"fruit/vegetable juice, whole milk",other vegetables,0.01,0.393,2.032
+42,"other vegetables, pip fruit",whole milk,0.014,0.518,2.025
+43,"tropical fruit, yogurt",whole milk,0.015,0.517,2.025
+44,"other vegetables, yogurt",whole milk,0.022,0.513,2.007
+45,"other vegetables, whipped/sour cream",whole milk,0.015,0.507,1.984
+46,"fruit/vegetable juice, other vegetables",whole milk,0.01,0.498,1.947
+47,butter,whole milk,0.028,0.497,1.946
+48,beef,other vegetables,0.02,0.376,1.943
+49,pork,other vegetables,0.022,0.376,1.941
+50,curd,whole milk,0.026,0.49,1.919
+51,butter milk,other vegetables,0.01,0.371,1.917
+52,"other vegetables, root vegetables",whole milk,0.023,0.489,1.915
+53,frozen vegetables,other vegetables,0.018,0.37,1.912
+54,butter,other vegetables,0.02,0.361,1.868
+55,"other vegetables, tropical fruit",whole milk,0.017,0.476,1.863
+56,"citrus fruit, yogurt",whole milk,0.01,0.474,1.856
+57,domestic eggs,whole milk,0.03,0.473,1.85
+58,"other vegetables, pork",whole milk,0.01,0.469,1.837
+59,"other vegetables, pastry",whole milk,0.011,0.468,1.833
+60,cream cheese ,other vegetables,0.013,0.352,1.822
+61,domestic eggs,other vegetables,0.022,0.351,1.814
+62,citrus fruit,other vegetables,0.029,0.349,1.803
+63,"soda, whole milk",other vegetables,0.014,0.348,1.797
+64,pip fruit,other vegetables,0.026,0.345,1.785
+65,frankfurter,rolls/buns,0.019,0.326,1.772
+66,"rolls/buns, yogurt",whole milk,0.016,0.453,1.772
+67,sausage,rolls/buns,0.031,0.326,1.771
+68,tropical fruit,other vegetables,0.036,0.342,1.768
+69,"citrus fruit, other vegetables",whole milk,0.013,0.451,1.764
+70,whipped/sour cream,whole milk,0.032,0.45,1.76
+71,"sausage, whole milk",other vegetables,0.01,0.34,1.758
+72,root vegetables,whole milk,0.049,0.449,1.756
+73,"rolls/buns, tropical fruit",whole milk,0.011,0.446,1.747
+74,margarine,other vegetables,0.02,0.337,1.741
+75,sugar,whole milk,0.015,0.444,1.739
+76,hamburger meat,whole milk,0.015,0.443,1.735
+77,"rolls/buns, yogurt",other vegetables,0.011,0.334,1.728
+78,ham,whole milk,0.011,0.441,1.728
+79,sliced cheese,whole milk,0.011,0.44,1.721
+80,"bottled water, other vegetables",whole milk,0.011,0.434,1.7
+81,white bread,other vegetables,0.014,0.326,1.685
+82,cream cheese ,whole milk,0.016,0.426,1.668
+83,curd,other vegetables,0.017,0.323,1.667
+84,"other vegetables, soda",whole milk,0.014,0.425,1.665
+85,frozen vegetables,whole milk,0.02,0.425,1.663
+86,sugar,other vegetables,0.011,0.318,1.645
+87,"other vegetables, rolls/buns",whole milk,0.018,0.42,1.644
+88,"pastry, whole milk",other vegetables,0.011,0.318,1.644
+89,"rolls/buns, whole milk",other vegetables,0.018,0.316,1.633
+90,butter milk,whole milk,0.012,0.415,1.622
+91,"bottled water, whole milk",other vegetables,0.011,0.314,1.621
+92,margarine,whole milk,0.024,0.413,1.617
+93,dessert,other vegetables,0.012,0.312,1.614
+94,yogurt,other vegetables,0.043,0.311,1.608
+95,hard cheese,whole milk,0.01,0.411,1.608
+96,chicken,whole milk,0.018,0.41,1.604
+97,berries,other vegetables,0.01,0.309,1.596
+98,white bread,whole milk,0.017,0.406,1.588
+99,beef,whole milk,0.021,0.405,1.585
+100,tropical fruit,whole milk,0.042,0.403,1.578
+101,oil,whole milk,0.011,0.402,1.574
+102,yogurt,whole milk,0.056,0.402,1.572
+103,pip fruit,whole milk,0.03,0.398,1.557
+104,onions,whole milk,0.012,0.39,1.527
+105,hygiene articles,whole milk,0.013,0.389,1.522
+106,brown bread,whole milk,0.025,0.389,1.521
+107,other vegetables,whole milk,0.075,0.387,1.514
+108,pork,whole milk,0.022,0.384,1.505
+109,"soda, yogurt",whole milk,0.01,0.383,1.499
+110,"other vegetables, sausage",whole milk,0.01,0.377,1.477
+111,napkins,whole milk,0.02,0.377,1.474
+112,pastry,whole milk,0.033,0.374,1.463
+113,dessert,whole milk,0.014,0.37,1.448
+114,citrus fruit,whole milk,0.031,0.369,1.442
+115,fruit/vegetable juice,whole milk,0.027,0.368,1.442
+116,long life bakery product,whole milk,0.014,0.361,1.414
+117,berries,whole milk,0.012,0.355,1.388
+118,frankfurter,whole milk,0.021,0.348,1.363
+119,newspapers,whole milk,0.027,0.343,1.341
+120,chocolate,whole milk,0.017,0.336,1.315
+121,waffles,whole milk,0.013,0.331,1.294
+122,coffee,whole milk,0.019,0.322,1.261
+123,sausage,whole milk,0.03,0.318,1.245
+124,bottled water,whole milk,0.034,0.311,1.217
+125,rolls/buns,whole milk,0.057,0.308,1.205
